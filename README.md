@@ -1,12 +1,12 @@
 
 <div align="center">
-<img src="https://go.hugobatista.com/ghraw/0x6f677548/output/snake.svg" alt="Snake animation" />
+<img src="https://go.hugobatista.com/ghraw/hugobatista/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=0x6f677548.0x6f677548&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hugobatista.hugobatista&"  />
 </div>
 
 ###
