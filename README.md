@@ -28,7 +28,7 @@ A set of tools to manage Azure AD Conditional Access, as part of a Policy-as-Cod
 <h5 align="left"><a href="https://go.hugobatista.com/ghstars/lists/my-infosec-pocs">Infosec related PoCs</a></h5>
 PoCs, including AI exploitation or prompt injection
 <h4 align="left">Dev, Tools, Secops & Devops</h4>
-<h5 align="left"><a href="https://go.hugobatista.com/gh/kuma-sentinel">kuma-sentinel</a></h5>
+<h5 align="left"><a href="https://go.hugobatista.com/gh/kuma-sentinel">kuma-scout</a></h5>
 Extensible remote monitoring CLI tool for Uptime Kuma. Monitor various system conditions and push results to Uptime Kuma push monitors.
 <h5 align="left"><a href="https://go.hugobatista.com/gh/podshell">Podshell</a></h5>
 A utility to keep Docker container profiles in sync with your favorite Windows or MacOS terminal (Python, PySide)
