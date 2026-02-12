@@ -21,10 +21,8 @@ Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magica
 
 ## 🔐 Security & Identity
 
-### **CA-PowerToys** – Azure AD Conditional Access Management
-[Repository](https://go.hugobatista.com/github/zerotrust-ca-powertoys) | [Policies](https://go.hugobatista.com/github/zerotrust-ca-policies)
-
-Set of tools to manage Azure AD Conditional Access policies via Policy-as-Code. Also includes sample Zero Trust user access policies for Entra ID.
+- [**CA-PowerToys**](https://go.hugobatista.com/github/zerotrust-ca-powertoys) – Set of tools to manage Azure AD Conditional Access policies via Policy-as-Code. Also includes sample [Zero Trust user access policies](https://go.hugobatista.com/github/zerotrust-ca-policies)
+- [**Tailscale-jit**](https://go.hugobatista.com/github/tailscale-jit) - Secure, Just-in-time access to Tailscale resources using GitHub Actions. 
 
 ### **Security Research**
 - [Unicode Injection](https://go.hugobatista.com/github/unicode-injection) – Prompt injection PoC using invisible Unicode characters
