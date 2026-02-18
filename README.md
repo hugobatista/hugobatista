@@ -24,7 +24,7 @@ Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magica
 - [**CA-PowerToys**](https://go.hugobatista.com/github/zerotrust-ca-powertoys) – Set of tools to manage Azure AD Conditional Access policies via Policy-as-Code. Also includes sample [Zero Trust user access policies](https://go.hugobatista.com/github/zerotrust-ca-policies)
 - [**Tailscale-jit**](https://go.hugobatista.com/github/tailscale-jit) - Secure, Just-in-time access to Tailscale resources using GitHub Actions.
 - [**TailHoogram**](https://go.hugobatista.com/github/tailhoogram) - Send Tailscale webhook events to Telegram using Cloudflare Workers
-- [**VaultSh**](https://go.hugobatista.com/github/vaultsh) - Execute commands with secrets from keyring, avoiding local .env files
+- [**Secret-Tool-Rul**](https://go.hugobatista.com/github/secret-tool-run) - Execute commands with secrets from keyring, avoiding local .env files
 
 
 ### **Security Research**
