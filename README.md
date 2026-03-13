@@ -41,6 +41,7 @@ Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magica
 
 ## 📚 Utilities & Integrations
 
+- [**telejournal**](https://go.hugobatista.com/github/telejournal) - Telegram bot that journals every private message into Obsidian daily notes
 - [**joplin-to-obsidian**](https://go.hugobatista.com/github/joplin-to-obsidian) – Convert Joplin notebooks to Obsidian vaults
 - [**windows-utils**](https://go.hugobatista.com/github/windows-utils) – PowerShell utilities for Windows admin and automation
 - [**linux-utils**](https://go.hugobatista.com/github/linux-utils) – Bash and Python tools for server setup and networking
