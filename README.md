@@ -47,7 +47,7 @@ Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magica
 - [**linux-utils**](https://go.hugobatista.com/github/linux-utils) – Bash and Python tools for server setup and networking
 - [**lg-tv-ad-block**](https://go.hugobatista.com/github/lg-tv-ad-block) – DNS blocklist for LG Smart TVs
 - [**kobo-utilities**](https://go.hugobatista.com/github/kobo-utilities) – Utilities for Kobo eReaders
-- [**wallet-rest-cli**](https://go.hugobatista.com/github/wallet-rest-cli) - Aconsole CLI for the budgetbackers wallet api. Useful for debugging or provide a CLI for your AI Agents
+- [**wallet-rest-cli**](https://go.hugobatista.com/github/wallet-rest-cli) - A console CLI for the budgetbackers wallet api. Useful for debugging or provide a CLI for your AI Agents
 
 ## 💻 Tech Stack
 
