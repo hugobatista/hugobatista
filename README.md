@@ -7,7 +7,7 @@
 
 ## 🚀 Featured Projects
 
-### <img src="https://go.hugobatista.com/ghraw/intellireading-www/main/src/img/logo-icon.png" height="24" alt="Intellireading" style="vertical-align:middle; margin-right:6px;" />  **Intellireading** – Reading Optimization Tool
+### <img src="https://go.hugobatista.com/ghraw/intellireading-www/main/public/img/logo-icon.png" height="24" alt="Intellireading" style="vertical-align:middle; margin-right:6px;" />  **Intellireading** – Reading Optimization Tool
 
 Bionic reading metaguiding tool to enhance reading focus and speed, particularly for ADHD. Available as a web app, Python CLI, and Calibre plugin.
 
