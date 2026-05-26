@@ -28,6 +28,7 @@ Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magica
 
 
 ### **Security Research**
+- [Unicode Skill Injection POC](https://go.hugobatista.com/github/unicode-skill-injection-poc) – Invisible Unicode prompt injection in AI agent skill files — 3 demo skills + scanner tools
 - [Unicode Injection](https://go.hugobatista.com/github/unicode-injection) – Prompt injection PoC using invisible Unicode characters
 - [Copilot Instructions Injection](https://go.hugobatista.com/github/copilot-instructions-unicode-injection) – AI code assistant vulnerability research
 - [x86-asm-bmp-steganography](https://go.hugobatista.com/github/x86-asm-bmp-steganography) – Academic exercise in x86-64 assembly for hiding messages in bitmaps
