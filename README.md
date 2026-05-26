@@ -36,9 +36,9 @@ Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magica
 
 - 🧭 [**kuma-scout**](https://go.hugobatista.com/github/kuma-scout) – Uptime Kuma agent for system monitoring
 - <img src="https://go.hugobatista.com/ghraw/podshell/main/resources/icon128.png" height="18" alt="PodShell icon" style="vertical-align:middle; margin-right:6px;" /> [**Podshell**](https://go.hugobatista.com/github/podshell) – Sync your terminal with Docker containers and SSH configs
-- [**Perplexity PowerToys Plugin**](https://go.hugobatista.com/github/PowerToys-Run-PerplexitySearchShortcut) – Search using Perplexity AI from PowerToys Run
+- 🔍 [**Perplexity PowerToys Plugin**](https://go.hugobatista.com/github/PowerToys-Run-PerplexitySearchShortcut) – Search using Perplexity AI from PowerToys Run
 - <img src="https://fastapi.tiangolo.com/img/icon-white.svg" height="18" alt="FastAPI icon" style="vertical-align:middle; margin-right:6px;" /> [**FastAPI Bootstrap**](https://go.hugobatista.com/github/fastapi-bootstrap) – Project template with NGINX, FastAPI, and OpenTelemetry
-- [**git-utils**](https://go.hugobatista.com/gh/git-utils) - Useful Git and Github scripts for daily devops work
+- ⚡ [**git-utils**](https://go.hugobatista.com/gh/git-utils) - Useful Git and Github scripts for daily devops work
 - 🛡️ [**slimproxy**](https://go.hugobatista.com/github/slimproxy) – Lightweight forward proxy with IP, auth, and destination filtering
 
 ## 📚 Utilities & Integrations
