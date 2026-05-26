@@ -14,7 +14,7 @@ Bionic reading metaguiding tool to enhance reading focus and speed, particularly
 [Website](https://www.intellireading.com) | [CLI](https://go.hugobatista.com/github/intellireading-cli) | [Calibre Plugin](https://go.hugobatista.com/github/intellireading-calibre-plugins) | 
  [Web App](https://go.hugobatista.com/github/intellireading-www) | [API Server](https://go.hugobatista.com/github/intellireading-api_server)
 
-### 🎮 **Bouncy Dash** – 3D Browser Game
+### 🐰 **Bouncy Dash** – 3D Browser Game
 [Play Now](https://bouncy-dash.hugobatista.com/)
 
 Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magical lands collecting carrots.
