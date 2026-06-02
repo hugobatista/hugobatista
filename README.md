@@ -3,7 +3,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hugobatista.hugobatista" alt="Profile views" />
 </div>
 
-<h1 align="center">👋 Welcome</h1>
+<h1 align="center">full-time part-timer.</h1>
+<h2 align="center">code is art.</h2>
+<h3 align="center">art is exploitable.</h3>
 
 ## 🚀 Featured Projects
 
