@@ -16,6 +16,14 @@ Bionic reading metaguiding tool to enhance reading focus and speed, particularly
 [Website](https://www.intellireading.com) | [CLI](https://go.hugobatista.com/github/intellireading-cli) | [Calibre Plugin](https://go.hugobatista.com/github/intellireading-calibre-plugins) | 
  [Web App](https://go.hugobatista.com/github/intellireading-www) | [API Server](https://go.hugobatista.com/github/intellireading-api_server)
 
+## 🎮 Games & Fun
+
+### 🐍 **opensnake** – Don't doomscroll, play snake
+
+The agent is thinking. You're doomscrolling. opensnake replaces that with a classic snake game on a transparent overlay — right over your editor. Built with **Pygame** for opencode users who hate waiting.
+
+[GitHub](https://go.hugobatista.com/github/opensnake) | `pip install opensnake`
+
 ### 🐰 **Bouncy Dash** – 3D Browser Game
 [Play Now](https://bouncy-dash.hugobatista.com/)
 
