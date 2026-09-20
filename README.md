@@ -50,6 +50,11 @@ Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magica
 - [Copilot Instructions Injection](https://go.hugobatista.com/github/copilot-instructions-unicode-injection) – AI code assistant vulnerability research
 - [x86-asm-bmp-steganography](https://go.hugobatista.com/github/x86-asm-bmp-steganography) – Academic exercise in x86-64 assembly for hiding messages in bitmaps
 
+## <img src="https://opencode.ai/favicon-96x96-v3.png" height="24" alt="OpenCode icon" style="vertical-align:middle; margin-right:6px;" /> OpenCode
+
+- 🏷️ [**opencode-peak-badge**](https://go.hugobatista.com/github/opencode-peak-badge) – OpenCode TUI plugin that shows a `[PEAK]` / `[OFF-PEAK]` badge next to the model name, so you always know when the active model is billed at peak rates
+- ⛔ [**opencode-branch-guard**](https://go.hugobatista.com/gh/opencode-branch-guard) – OpenCode plugin that blocks git mutations (`commit`, `push`, `merge`, `rebase`, …) on protected branches, with per-branch and per-repository policies
+
 ## 🛠️ DevOps & Development Tools
 
 - 🧭 [**kuma-scout**](https://go.hugobatista.com/github/kuma-scout) – Uptime Kuma agent for system monitoring
@@ -58,7 +63,6 @@ Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magica
 - <img src="https://fastapi.tiangolo.com/img/icon-white.svg" height="18" alt="FastAPI icon" style="vertical-align:middle; margin-right:6px;" /> [**FastAPI Bootstrap**](https://go.hugobatista.com/github/fastapi-bootstrap) – Project template with NGINX, FastAPI, and OpenTelemetry
 - ⚡ [**git-utils**](https://go.hugobatista.com/gh/git-utils) - Useful Git and Github scripts for daily devops work
 - 🛡️ [**slimproxy**](https://go.hugobatista.com/github/slimproxy) – Lightweight forward proxy with IP, auth, and destination filtering
-- 🏷️ [**opencode-peak-badge**](https://go.hugobatista.com/github/opencode-peak-badge) – OpenCode TUI plugin that shows a `[PEAK]` / `[OFF-PEAK]` badge next to the model name, so you always know when the active model is billed at peak rates
 
 ## 📚 Utilities & Integrations
 
