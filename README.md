@@ -17,7 +17,7 @@ Bionic reading metaguiding tool to enhance reading focus and speed, particularly
 [Website](https://www.intellireading.com) | [CLI](https://go.hugobatista.com/github/intellireading-cli) | [Calibre Plugin](https://go.hugobatista.com/github/intellireading-calibre-plugins) | 
  [Web App](https://go.hugobatista.com/github/intellireading-www) | [API Server](https://go.hugobatista.com/github/intellireading-api_server)
 
-### <img src="https://hugobatista.github.io/deepfrugal/favicon.svg" height="24" alt="DeepFrugal" style="vertical-align:middle; margin-right:6px;" /> **DeepFrugal** – LLM Pricing Comparison
+### <img src="https://deepfrugal.com/favicon.svg" height="24" alt="DeepFrugal" style="vertical-align:middle; margin-right:6px;" /> **DeepFrugal** – LLM Pricing Comparison
 
 Find the cheapest way to run any model. Compares real-world LLM pricing across gateways — subscription plans and pay-per-use APIs — in one sortable table, with effective costs, reseller fee + tax markups, and daily automated refresh.
 
