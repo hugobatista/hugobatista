@@ -10,51 +10,39 @@
 
 ## 🚀 Featured Projects
 
-### <img src="https://go.hugobatista.com/ghraw/intellireading-www/main/public/img/logo-icon.png" height="24" alt="Intellireading" style="vertical-align:middle; margin-right:6px;" />  **Intellireading** – Reading Optimization Tool
-
-Bionic reading metaguiding tool to enhance reading focus and speed, particularly for ADHD. Available as a web app, Python CLI, and Calibre plugin.
-
-[Website](https://www.intellireading.com) | [CLI](https://go.hugobatista.com/github/intellireading-cli) | [Calibre Plugin](https://go.hugobatista.com/github/intellireading-calibre-plugins) | 
- [Web App](https://go.hugobatista.com/github/intellireading-www) | [API Server](https://go.hugobatista.com/github/intellireading-api_server)
-
 ### <img src="https://deepfrugal.com/favicon.svg" height="24" alt="DeepFrugal" style="vertical-align:middle; margin-right:6px;" /> **DeepFrugal** – LLM Pricing Comparison
 
 Find the cheapest way to run any model. Compares real-world LLM pricing across gateways — subscription plans and pay-per-use APIs — in one sortable table, with effective costs, reseller fee + tax markups, and daily automated refresh.
 
 [Website](https://go.hugobatista.com/deepfrugal)
 
-## 🎮 Games & Fun
+### <img src="https://go.hugobatista.com/ghraw/intellireading-www/main/public/img/logo-icon.png" height="24" alt="Intellireading" style="vertical-align:middle; margin-right:6px;" />  **Intellireading** – Reading Optimization Tool
 
-### 🐍 **opensnake** – Don't doomscroll, play snake
+Bionic reading metaguiding tool to enhance reading focus and speed, particularly for ADHD. Available as a web app, Python CLI, and Calibre plugin.
 
-The agent is thinking. You're doomscrolling. opensnake replaces that with a classic snake game on a transparent overlay — right over your editor. Built with **Pygame** for opencode users who hate waiting.
-
-[GitHub](https://go.hugobatista.com/github/opensnake) | `pip install opensnake`
-
-### 🐰 **Bouncy Dash** – 3D Browser Game
-[Play Now](https://bouncy-dash.hugobatista.com/)
-
-Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magical lands collecting carrots.
-
-## 🔐 Security & Identity
-
-- 🆔 [**CA-PowerToys**](https://go.hugobatista.com/github/zerotrust-ca-powertoys) – Set of tools to manage Azure AD Conditional Access policies via Policy-as-Code. Also includes sample [Zero Trust user access policies](https://go.hugobatista.com/github/zerotrust-ca-policies)
-- ⏱️ [**Tailscale-jit**](https://go.hugobatista.com/github/tailscale-jit) - Secure, Just-in-time access to Tailscale resources using GitHub Actions.
-- 📡 [**TailHoogram**](https://go.hugobatista.com/github/tailhoogram) - Send Tailscale webhook events to Telegram using Cloudflare Workers
-- 🔐 [**kleys**](https://go.hugobatista.com/gh/kleys) - Run commands with encrypted secrets from your OS keyring — cross-platform, no `.env` files on disk
-
-
-### **Security Research**
-- [Unicode Skill Injection POC](https://go.hugobatista.com/github/unicode-skill-injection-poc) – Invisible Unicode prompt injection in AI agent skill files — 3 demo skills + scanner tools
-- [Unicode Injection](https://go.hugobatista.com/github/unicode-injection) – Prompt injection PoC using invisible Unicode characters
-- [Copilot Instructions Injection](https://go.hugobatista.com/github/copilot-instructions-unicode-injection) – AI code assistant vulnerability research
-- [x86-asm-bmp-steganography](https://go.hugobatista.com/github/x86-asm-bmp-steganography) – Academic exercise in x86-64 assembly for hiding messages in bitmaps
+[Website](https://www.intellireading.com) | [CLI](https://go.hugobatista.com/github/intellireading-cli) | [Calibre Plugin](https://go.hugobatista.com/github/intellireading-calibre-plugins) |
+[Web App](https://go.hugobatista.com/github/intellireading-www) | [API Server](https://go.hugobatista.com/github/intellireading-api_server)
 
 ## 🤖 Agentic Engineering
 
 - 🧩 [**agent-skills**](https://go.hugobatista.com/github/agent-skills) – Portable Agent Skills for coding agents: Python, DevOps, review, docs and more
 - 🏷️ [**opencode-peak-badge**](https://go.hugobatista.com/github/opencode-peak-badge) – OpenCode TUI plugin that shows a `[PEAK]` / `[OFF-PEAK]` badge next to the model name, so you always know when the active model is billed at peak rates
-- ⛔ [**opencode-branch-guard**](https://go.hugobatista.com/gh/opencode-branch-guard) – OpenCode plugin that blocks git mutations (`commit`, `push`, `merge`, `rebase`, …) on protected branches, with per-branch and per-repository policies
+- ⛔ [**opencode-branch-guard**](https://go.hugobatista.com/github/opencode-branch-guard) – OpenCode plugin that blocks git mutations (`commit`, `push`, `merge`, `rebase`, …) on protected branches, with per-branch and per-repository policies
+
+## 🔐 Security, Privacy & Identity
+
+- 🆔 [**CA-PowerToys**](https://go.hugobatista.com/github/zerotrust-ca-powertoys) – Set of tools to manage Azure AD Conditional Access policies via Policy-as-Code. Also includes sample [Zero Trust user access policies](https://go.hugobatista.com/github/zerotrust-ca-policies)
+- ⏱️ [**Tailscale-jit**](https://go.hugobatista.com/github/tailscale-jit) – Secure, Just-in-time access to Tailscale resources using GitHub Actions.
+- 📡 [**TailHoogram**](https://go.hugobatista.com/github/tailhoogram) – Send Tailscale webhook events to Telegram using Cloudflare Workers
+- 🔐 [**kleys**](https://go.hugobatista.com/github/kleys) – Run commands with encrypted secrets from your OS keyring — cross-platform, no `.env` files on disk
+- 📺 [**lg-tv-ad-block**](https://go.hugobatista.com/github/lg-tv-ad-block) – DNS blocklist for LG Smart TVs
+
+### Security Research
+
+- 🧬 [**Unicode Skill Injection POC**](https://go.hugobatista.com/github/unicode-skill-injection-poc) – Invisible Unicode prompt injection in AI agent skill files — 3 demo skills + scanner tools
+- 🪄 [**Unicode Injection**](https://go.hugobatista.com/github/unicode-injection) – Prompt injection PoC using invisible Unicode characters
+- 📝 [**Copilot Instructions Injection**](https://go.hugobatista.com/github/copilot-instructions-unicode-injection) – AI code assistant vulnerability research
+- 🖼️ [**x86-asm-bmp-steganography**](https://go.hugobatista.com/github/x86-asm-bmp-steganography) – Academic exercise in x86-64 assembly for hiding messages in bitmaps
 
 ## 🛠️ DevOps & Development Tools
 
@@ -62,18 +50,30 @@ Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magica
 - <img src="https://go.hugobatista.com/ghraw/podshell/main/resources/icon128.png" height="18" alt="PodShell icon" style="vertical-align:middle; margin-right:6px;" /> [**Podshell**](https://go.hugobatista.com/github/podshell) – Sync your terminal with Docker containers and SSH configs
 - 🔍 [**Perplexity PowerToys Plugin**](https://go.hugobatista.com/github/PowerToys-Run-PerplexitySearchShortcut) – Search using Perplexity AI from PowerToys Run
 - <img src="https://fastapi.tiangolo.com/img/icon-white.svg" height="18" alt="FastAPI icon" style="vertical-align:middle; margin-right:6px;" /> [**FastAPI Bootstrap**](https://go.hugobatista.com/github/fastapi-bootstrap) – Project template with NGINX, FastAPI, and OpenTelemetry
-- ⚡ [**git-utils**](https://go.hugobatista.com/gh/git-utils) - Useful Git and Github scripts for daily devops work
+- ⚡ [**git-utils**](https://go.hugobatista.com/github/git-utils) – Useful Git and Github scripts for daily devops work
 - 🛡️ [**slimproxy**](https://go.hugobatista.com/github/slimproxy) – Lightweight forward proxy with IP, auth, and destination filtering
 
 ## 📚 Utilities & Integrations
 
-- 📔 [**telejournal**](https://go.hugobatista.com/github/telejournal) - Telegram bot that journals every private message into Obsidian daily notes
+- 📔 [**telejournal**](https://go.hugobatista.com/github/telejournal) – Telegram bot that journals every private message into Obsidian daily notes
 - 🔄 [**joplin-to-obsidian**](https://go.hugobatista.com/github/joplin-to-obsidian) – Convert Joplin notebooks to Obsidian vaults
 - 🪟 [**windows-utils**](https://go.hugobatista.com/github/windows-utils) – PowerShell utilities for Windows admin and automation
 - 🐧 [**linux-utils**](https://go.hugobatista.com/github/linux-utils) – Bash and Python tools for server setup and networking
-- 📺 [**lg-tv-ad-block**](https://go.hugobatista.com/github/lg-tv-ad-block) – DNS blocklist for LG Smart TVs
 - 📚 [**kobo-utilities**](https://go.hugobatista.com/github/kobo-utilities) – Utilities for Kobo eReaders
-- 💰 [**wallet-rest-cli**](https://go.hugobatista.com/github/wallet-rest-cli) - A console CLI for the budgetbackers wallet api. Useful for debugging or provide a CLI for your AI Agents
+- 💰 [**wallet-rest-cli**](https://go.hugobatista.com/github/wallet-rest-cli) – A console CLI for the budgetbackers wallet api. Useful for debugging or provide a CLI for your AI Agents
+
+## 🎮 Games & Fun
+
+### 🐍 **opensnake** – Don't doomscroll, play snake
+
+The agent is thinking. You're doomscrolling. opensnake replaces that with a classic snake game on a transparent overlay — right over your editor. Built with **Pygame** for OpenCode users who hate waiting.
+
+[GitHub](https://go.hugobatista.com/github/opensnake) | `pip install opensnake`
+
+### 🐰 **Bouncy Dash** – 3D Browser Game
+[Play Now](https://bouncy-dash.hugobatista.com/)
+
+Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magical lands collecting carrots.
 
 ## 💻 Tech Stack
 
@@ -95,5 +95,12 @@ Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs" />
-
-
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
+</div>
