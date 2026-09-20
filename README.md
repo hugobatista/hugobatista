@@ -50,8 +50,9 @@ Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magica
 - [Copilot Instructions Injection](https://go.hugobatista.com/github/copilot-instructions-unicode-injection) – AI code assistant vulnerability research
 - [x86-asm-bmp-steganography](https://go.hugobatista.com/github/x86-asm-bmp-steganography) – Academic exercise in x86-64 assembly for hiding messages in bitmaps
 
-## <img src="https://opencode.ai/favicon-96x96-v3.png" height="24" alt="OpenCode icon" style="vertical-align:middle; margin-right:6px;" /> OpenCode
+## 🤖 Agentic Engineering
 
+- 🧩 [**agent-skills**](https://go.hugobatista.com/github/agent-skills) – Portable Agent Skills for coding agents: Python, DevOps, review, docs and more
 - 🏷️ [**opencode-peak-badge**](https://go.hugobatista.com/github/opencode-peak-badge) – OpenCode TUI plugin that shows a `[PEAK]` / `[OFF-PEAK]` badge next to the model name, so you always know when the active model is billed at peak rates
 - ⛔ [**opencode-branch-guard**](https://go.hugobatista.com/gh/opencode-branch-guard) – OpenCode plugin that blocks git mutations (`commit`, `push`, `merge`, `rebase`, …) on protected branches, with per-branch and per-repository policies
 
