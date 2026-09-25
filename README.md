@@ -28,6 +28,7 @@ Bionic reading metaguiding tool to enhance reading focus and speed, particularly
 - 🧩 [**agent-skills**](https://go.hugobatista.com/github/agent-skills) – Portable Agent Skills for coding agents: Python, DevOps, review, docs and more
 - 🏷️ [**opencode-peak-badge**](https://go.hugobatista.com/github/opencode-peak-badge) – OpenCode TUI plugin that shows a `[PEAK]` / `[OFF-PEAK]` badge next to the model name, so you always know when the active model is billed at peak rates
 - ⛔ [**opencode-branch-guard**](https://go.hugobatista.com/github/opencode-branch-guard) – OpenCode plugin that blocks git mutations (`commit`, `push`, `merge`, `rebase`, …) on protected branches, with per-branch and per-repository policies
+- 📝 [**opencode-prompt-logger**](https://go.hugobatista.com/github/opencode-prompt-logger) – Logs the assembled system prompt and the raw HTTP body of every model request to a rolling NDJSON file, so you can inspect exactly what the model received
 
 ## 🔐 Security, Privacy & Identity
 
