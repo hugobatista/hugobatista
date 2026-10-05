@@ -4,8 +4,7 @@
 </div>
 
 <h1 align="center">full-time part-timer.</h1>
-<h3 align="center">code is art.</h3>
-<h3 align="center">art is exploitable</h3>
+<h3 align="center">code is art, art is exploitable</h3>
 
 ## 🚀 Featured Projects
 
