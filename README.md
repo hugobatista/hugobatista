@@ -6,7 +6,6 @@
 <h1 align="center">full-time part-timer.</h1>
 <h3 align="center">code is art.</h3>
 <h3 align="center">art is exploitable</h3>
-<h3 align="center">AI is exploit paint</h3>
 
 ## 🚀 Featured Projects
 
